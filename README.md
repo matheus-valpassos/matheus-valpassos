@@ -212,11 +212,11 @@ Every project I build is focused on improving efficiency, automating processes a
 
 <p align="left">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/matheusvalpassos">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:matvalpassos@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
